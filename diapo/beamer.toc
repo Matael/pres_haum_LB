@@ -1,3 +1,0 @@
-\beamer@endinputifotherversion {3.36pt}
-\beamer@sectionintoc {1}{Les Projets}{3}{0}{1}
-\beamer@sectionintoc {2}{Projet de Noël}{8}{0}{2}
